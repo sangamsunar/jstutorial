@@ -33,3 +33,18 @@ switch(option){
   default:
   console.log("Ni hao!")
 }
+
+
+const option1 = "+"
+switch(option1){
+  case "+":
+  console.log("addition")
+  break;
+
+  case "-": 
+  console.log("minus")
+  break;
+
+  default:
+  console.log("sorry error aayo hehe")
+}
